@@ -9,4 +9,4 @@ Fourth (and last) lab was about understanding sockets and server-client connecti
 
 Team members:
 
-Efstathia Statha <fay.statha@gmail.com>, Nick Ipsilantis
+Efstathia Statha <fay.statha@gmail.com>, Nick Ipsilantis <nikosips98@gmail.com>
