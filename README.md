@@ -7,7 +7,7 @@ Second lab was about understanding signals.
 Third lab was about understanding pipes.
 Fourth (and last) lab was about understanding sockets and server-client connection.
 
-All the assignements can be found in the folder of each lab. The assignements language is greek.
+All the assignments can be found in the folder of each lab. The assignments language is greek.
 
 Team members:
 
