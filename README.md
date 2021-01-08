@@ -7,6 +7,8 @@ Second lab was about understanding signals.
 Third lab was about understanding pipes.
 Fourth (and last) lab was about understanding sockets and server-client connection.
 
+All the assignements can be found in the folder of each lab. The assignements language is greek.
+
 Team members:
 
 Efstathia Statha <fay.statha@gmail.com>, Nick Ipsilantis <nikosips98@gmail.com>
